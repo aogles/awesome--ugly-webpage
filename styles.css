@@ -1,0 +1,41 @@
+body {
+    font-family: system-ui;
+  font-size: 2.0rem;
+      background-image: url("https://raw.githubusercontent.com/aogles/FB/main/4576340075_39f179ee5c_b.jpeg");
+    color: rgb(233, 248, 62);
+    text-align: center;
+  }
+
+  .project-img{
+
+   float: left;
+      height: 300px; 
+      width: 400px;
+      padding: 50px
+    }
+    .lemons{
+
+        padding: 40px;
+        align-items: center;
+        float: left
+        
+    }
+
+     li {
+font-size: 2rem;
+        color:rgb(36, 39, 3);
+        float: right;
+        text-align: left;
+        vertical-align: center;
+        position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #452303;
+  padding: 20px;
+     }
+
+     p{
+        text-align: left;
+        color:rgb(57, 3, 3)
+     }
+  
